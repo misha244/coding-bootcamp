@@ -57,17 +57,17 @@ footer {
 
 /* We can use rotate to rotate the photo to the left or right */
 .rotate {
-  transform: rotate(7deg);
+  transform: rotate(69deg);
 }
 
 /* We can use scale to stretch the photo vertically or horizontally */
 .scale {
-  transform: scale(1.5, 1);
+  transform: scale(1.5, 0.5);
 }
 
 /* We can use skew to skew the photo to the left or right */
 .skew {
-  transform: skew(15deg);
+  transform: skew(67deg);
 }
 
 @media screen and (max-width: 768px) {

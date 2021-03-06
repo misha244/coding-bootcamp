@@ -3,6 +3,7 @@ body {
   margin: 0px;
   height: 100vh;
   line-height: 20px;
+  box-sizing: border-box;
 }
 .title {
 }
@@ -19,13 +20,24 @@ body {
 }
 
 .card-item {
-  border: 2px dotted mediumturquoise;
-  padding: 10px;
+  border: 3px dotted mediumturquoise;
   text-align: justify;
+  position: relative;
 }
 
+.card-item h2 {
+  position: absolute;
+  border: 1px solid purple;
+  margin: 0px;
+}
 .info__card {
-  color: rgb(230, 101, 155);
+  color: rgb(207, 54, 118);
+  padding: 10px;
+}
+.code-snippet {
+  border-radius: 5px;
+  background: linear-gradient(to bottom, #9e6fb9, #cf80cb);
+  padding: 10px;
 }
 .title__footer {
 }

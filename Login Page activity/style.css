@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+}
+.container {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.9)
+    ),
+    url(https://cdn.abcotvs.com/dip/images/24996_kgo-windows-bliss-040714-1280.jpg?w=1600);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.login-form {
+}

@@ -1,5 +1,5 @@
 body {
-  background-color: #4b4b4b;
+  background-color: #b497c5;
   border: 1px solid midnightblue;
   margin: 0px;
   height: 100vh;
@@ -8,5 +8,7 @@ body {
 }
 .info {
 }
-.info_title {
+.info__title {
+}
+.title__footer {
 }

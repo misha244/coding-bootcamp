@@ -1,8 +1,8 @@
 body {
   background-color: #b497c5;
-  border: 1px solid midnightblue;
   margin: 0px;
   height: 100vh;
+  line-height: 20px;
 }
 .title {
 }
@@ -19,8 +19,13 @@ body {
 }
 
 .card-item {
-  border: 1px solid mediumseagreen;
+  border: 2px dotted mediumturquoise;
+  padding: 10px;
+  text-align: justify;
 }
 
+.info__card {
+  color: rgb(230, 101, 155);
+}
 .title__footer {
 }

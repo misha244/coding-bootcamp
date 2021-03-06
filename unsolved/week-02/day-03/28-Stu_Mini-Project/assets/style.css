@@ -6,6 +6,7 @@ body {
   box-sizing: border-box;
 }
 .title {
+  text-align: center;
 }
 
 .info {
@@ -13,6 +14,7 @@ body {
 }
 
 .info__title {
+  text-align: center;
 }
 
 .cards-container {
@@ -56,6 +58,8 @@ body {
   padding: 10px;
 }
 .title__footer {
+  text-align: center;
+  padding: 10px;
 }
 @media screen and (max-width: 768px) {
   .card-item;

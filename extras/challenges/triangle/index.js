@@ -1,4 +1,3 @@
-/**
- * ADD CODE HERE
- * NOTE: Don't forget to add your tests first
- */
+const is isEquilateral = (a, b, c) => {
+  return a === b && b === c;
+};
